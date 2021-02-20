@@ -15,5 +15,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/rendiscorddev/renxld"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/rendiscorddev/renxld"
+  },
+  "homepage": "https://github.com/rendiscorddev/renxld"
 }
